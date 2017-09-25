@@ -8,8 +8,11 @@
 	/*font-family:neuropol.ttf;*/
 	/*src:url("styles/fonts/neuropol.ttf");*/
 body{
-	 /*background-color:  #ffddcc;*/
+	 /*width: auto;*/
 
+}
+.container{
+	margin-bottom: 175px;
 }
 
 h1{
@@ -24,11 +27,11 @@ h2 {
 	font-family:BuDtendEr;
 	color : orange;
 	line-height: 80%;
-	letter-spacing: 4px;
+	letter-spacing: 8px;
 	font-size: 200px;
 	margin-bottom :0px;
 	margin-top:-165px;
-	margin-left: 50px;
+	margin-left: 60px;
 }
 h3{
 	font-family:BuDtendEr;
@@ -52,7 +55,7 @@ h5{
 	font-family: Courier New;
 	color:Orange;
 	font-size: 60px;
-	margin-top: -02px;
+	margin-top: -2px;
 	margin-left: 330px;
 }
 h6{
@@ -82,4 +85,20 @@ h6{
 	margin-right:-25px;
 	margin-left: 445px;
 	
+}
+.header{
+	margin-top: -175px;
+	margin-right: -250px;
+	margin-left: 50px;
+}
+.Darl{
+
+	margin-top: -230px;
+	margin-left: 45px;
+	/*margin-right: 220px;*/
+}
+.WOULD{
+
+	/*margin-top: 50px;*/
+	/*margin-right: -50px;*/
 }
