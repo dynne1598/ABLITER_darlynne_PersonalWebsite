@@ -8,11 +8,13 @@
 	/*font-family:neuropol.ttf;*/
 	/*src:url("styles/fonts/neuropol.ttf");*/
 body{
-	 /*width: auto;*/
+	
 
 }
 .container{
 	margin-bottom: 175px;
+	margin-left: 54px;
+	margin-top:31px;
 }
 
 h1{
@@ -98,7 +100,12 @@ h6{
 	/*margin-right: 220px;*/
 }
 .WOULD{
-
-	/*margin-top: 50px;*/
-	/*margin-right: -50px;*/
+	padding-top: 76px;
+	position: relative;
+	top :20px;
+	/*left: 50px;*/
+	z-index: :100;
+	margin-top: -175px;
+	margin-right: -151px;
+	margin-left: 111px;
 }
