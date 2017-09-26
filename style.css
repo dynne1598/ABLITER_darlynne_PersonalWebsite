@@ -94,7 +94,7 @@ h6{
 	margin-left: 50px;
 }
 .Darl{
-
+	/*top: -200px;*/
 	margin-top: -230px;
 	margin-left: 45px;
 	/*margin-right: 220px;*/
@@ -108,4 +108,22 @@ h6{
 	margin-top: -175px;
 	margin-right: -151px;
 	margin-left: 111px;
+}
+.Myface{
+
+	/*padding-top: 76px;*/
+	position: relative;
+	top :-450px;
+	right : -650px;
+	/*left: 50px;*/
+	/*z-index: :100;*/
+	margin-top: -175px;
+	margin-right: -150px;
+	margin-left: 111px;
+	/*top: -490px;*/
+	/*right: -300px;*/
+}
+/*.header2{*/
+
+	/*top: -450px;*/
 }
