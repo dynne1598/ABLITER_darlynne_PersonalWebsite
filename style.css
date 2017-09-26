@@ -8,7 +8,7 @@
 	/*font-family:neuropol.ttf;*/
 	/*src:url("styles/fonts/neuropol.ttf");*/
 body{
-	
+	 background-color:
 
 }
 .container{
@@ -16,114 +16,59 @@ body{
 	margin-left: 54px;
 	margin-top:31px;
 }
-
-h1{
-	font-family: BuDtendEr;
-	color : black;
-	font-size: 160px;
-	margin-bottom: 100px;
-	margin-top: 10px;
+.first{
+	position: relative;
+	top: 72px;
+	right: -216px;
+	margin-right: -858px;
+	margin-top: 50px;
 	margin-left: 50px;
-}
-h2 {
-	font-family:BuDtendEr;
-	color : orange;
-	line-height: 80%;
-	letter-spacing: 8px;
-	font-size: 200px;
-	margin-bottom :0px;
-	margin-top:-165px;
-	margin-left: 60px;
-}
-h3{
-	font-family:BuDtendEr;
-	color : Black;
-	letter-spacing: 5px;
-	font-size: 250px;
-	margin-top: -110px;
-	margin-bottom :0px;
-	margin-left: 50px;
-}
-h4{
-	font-family:consolas ;
-	color : Black;
-	font-size: 40px;
-	letter-spacing: 10px;
-	margin-left:60px;
-	margin-top: -50px;
-	/*border-bottom: 20px solid black;*/
-}
-h5{
-	font-family: Courier New;
-	color:Orange;
-	font-size: 60px;
-	margin-top: -2px;
-	margin-left: 330px;
-}
-h6{
-	font-family: BuDtendEr;
-	color :Black;
-	font-size: 100px;
-	line-height: 50px;
-	/*margin-top: -0px;*/
-	margin-left: 50px;
-}
-
-#toknow{
-
-	font-family: BuDtendEr;
-	color: Black;
-	font-size: 150px;
-	line-height: 55px;
-	margin-top: -230px;
-	margin-left: 100px;
-}
-#ABOUT{
-	font-family: courier New;
-	color: Orange;
-	letter-spacing: -36px;
-	font-size: 175px;
-	margin-top: -280px;
-	margin-right:-25px;
-	margin-left: 445px;
-	
 }
 .header{
-	margin-top: -175px;
-	margin-right: -250px;
-	margin-left: 50px;
+	position: relative;
+	top: 91px;
+	right: -255px;
+	/*margin-top: 79px;*/
+	margin-left: 198px;
 }
-.Darl{
-	/*top: -200px;*/
-	margin-top: -230px;
-	margin-left: 45px;
-	/*margin-right: 220px;*/
+.about{
+
+	position: relative;
+	top: -149px;
+	right: 43px;
+	margin-right: 227px;
+	margin-top: 79px;
+	margin-left: 295px;
 }
 .WOULD{
 	padding-top: 76px;
 	position: relative;
-	top :20px;
-	/*left: 50px;*/
+	top :-57px;
+	right: -28px;
 	z-index: :100;
 	margin-top: -175px;
-	margin-right: -151px;
+	margin-right: -174px;
 	margin-left: 111px;
 }
 .Myface{
 
-	/*padding-top: 76px;*/
 	position: relative;
-	top :-450px;
-	right : -650px;
-	/*left: 50px;*/
-	/*z-index: :100;*/
-	margin-top: -175px;
-	margin-right: -150px;
+	top : -250px;
+	right : -661px;
+	margin-top: -183px;
+	margin-right: -50px;
 	margin-left: 111px;
-	/*top: -490px;*/
-	/*right: -300px;*/
 }
-/*.header2{*/
+.Essentials{
 
-	/*top: -450px;*/
+	padding-top: 75px;
+	position: relative;
+	top :-57px;
+	right: -255px;
+	z-index: :100;
+	margin-top: -376px;
+	margin-right: 352px;
+	margin-left: 111px;
+	width: 63%;
+
 }
