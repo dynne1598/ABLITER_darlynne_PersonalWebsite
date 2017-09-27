@@ -35,8 +35,8 @@ body{
 
 	position: relative;
 	top: -149px;
-	right: 43px;
-	margin-right: 227px;
+	right: 74px;
+	margin-right: 211px;
 	margin-top: 79px;
 	margin-left: 295px;
 }
@@ -44,10 +44,10 @@ body{
 	padding-top: 76px;
 	position: relative;
 	top :-57px;
-	right: -28px;
+	right: -207px;
 	z-index: :100;
-	margin-top: -175px;
-	margin-right: -174px;
+	margin-top: -166px;
+	margin-right: 365px;
 	margin-left: 111px;
 }
 .Myface{
@@ -63,28 +63,43 @@ body{
 
 	padding-top: 76px;
 	position: relative;
-	top :-57px;
-	right: -236px;
+	width: -50px;
+	top :228px;
+	right: -244px;
 	z-index: :100;
 	margin-top: -376px;
-	margin-right: 352px;
+	margin-right: 417px;
 	margin-left: 111px;
-
 }
 .col1{
+
+	font-size: 12px;
+	line-height: 18px;
 	width: 250px;
 	padding: 20px 40px 20px 0px;
 	float: left;
-	margin-left: 257px;
+	margin-left: 271px;
 	clear: both;
 }
 .col2{
+	font-size: 12px;
+	line-height: 18px;
 	width: 250px;
 	padding : 20px 40px 20px 0px;
 	float:left;
 }
 .col3{
+	font-size: 12px;
+	line-height: 18px;
 	width: 250px;
 	padding: 20px 0px 20px 0;
 	float:left;
+}
+.Proof{
+	 position: relative;
+	 top: 302px;
+	 right:-249px;
+	 width: 655px;
+	 margin-right:50px;
+	 /*margin-left: */
 }
