@@ -8,7 +8,7 @@
 	/*font-family:neuropol.ttf;*/
 	/*src:url("styles/fonts/neuropol.ttf");*/
 body{
-	 background-color:
+	
 
 }
 .container{
@@ -19,7 +19,7 @@ body{
 .first{
 	position: relative;
 	top: 72px;
-	right: -216px;
+	right: -194px;
 	margin-right: -858px;
 	margin-top: 50px;
 	margin-left: 50px;
@@ -27,7 +27,7 @@ body{
 .header{
 	position: relative;
 	top: 91px;
-	right: -255px;
+	right: -243px;
 	/*margin-top: 79px;*/
 	margin-left: 198px;
 }
@@ -53,22 +53,38 @@ body{
 .Myface{
 
 	position: relative;
-	top : -250px;
-	right : -661px;
+	top : -195px;
+	right : -565px;
 	margin-top: -183px;
 	margin-right: -50px;
 	margin-left: 111px;
 }
 .Essentials{
 
-	padding-top: 75px;
+	padding-top: 76px;
 	position: relative;
 	top :-57px;
-	right: -255px;
+	right: -236px;
 	z-index: :100;
 	margin-top: -376px;
 	margin-right: 352px;
 	margin-left: 111px;
-	width: 63%;
 
+}
+.col1{
+	width: 250px;
+	padding: 20px 40px 20px 0px;
+	float: left;
+	margin-left: 257px;
+	clear: both;
+}
+.col2{
+	width: 250px;
+	padding : 20px 40px 20px 0px;
+	float:left;
+}
+.col3{
+	width: 250px;
+	padding: 20px 0px 20px 0;
+	float:left;
 }
