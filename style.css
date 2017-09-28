@@ -1,4 +1,4 @@
-@font-face{
+@font-face	{
 
  	font-family:BuDtendEr.ttf ;
  	src:url("styles/fonts/BuDtendEr.ttf");
@@ -8,39 +8,53 @@
 	/*font-family:neuropol.ttf;*/
 	/*src:url("styles/fonts/neuropol.ttf");*/
 body{
-	
 
 }
-.container{
-	margin-bottom: 175px;
-	margin-left: 54px;
-	margin-top:31px;
+h1	{
+	font-family: BuDtendEr;
+	font-size: 150px;
+	margin-top :61px;
+	margin-left :139px;
+	letter-spacing: 5px;
 }
-.first{
-	position: relative;
-	top: 72px;
-	right: -194px;
-	margin-right: -858px;
-	margin-top: 50px;
-	margin-left: 50px;
+h2	{
+	font-family: BuDtendEr;
+	font-size: 160px;
+	color: orange;
+	margin-top: -100px;
+	margin-left: 136px;
+	margin-right: 30px;
+	letter-spacing: 20px;
+	line-height: 5px;
+	
+	
 }
-.header{
-	position: relative;
-	top: 91px;
-	right: -243px;
-	/*margin-top: 79px;*/
-	margin-left: 198px;
+h3	{
+	font-family: BuDtendEr;
+	font-size: 220px;
+	letter-spacing: 20px;
+	margin-left: 141px;
+	margin-top: -150px;
+
 }
-.about{
+h4	{
+	font-size: 33px;
+	margin-right: 50px;
+	margin-left: 143px;
+	margin-top: -250px;
+	letter-spacing: 18px;
+
+}
+.about {
 
 	position: relative;
 	top: -149px;
 	right: 74px;
 	margin-right: 211px;
-	margin-top: 79px;
+	margin-top: 62px;
 	margin-left: 295px;
 }
-.WOULD{
+.WOULD	{
 	padding-top: 76px;
 	position: relative;
 	top :-57px;
@@ -50,16 +64,16 @@ body{
 	margin-right: 365px;
 	margin-left: 111px;
 }
-.Myface{
+.Myface	{
 
 	position: relative;
-	top : -195px;
-	right : -565px;
-	margin-top: -183px;
-	margin-right: -50px;
+	top : -328px;
+	right : -700px;
+	margin-top: -186px;
+	margin-right: 198px;
 	margin-left: 111px;
 }
-.Essentials{
+.Essentials	{
 
 	padding-top: 76px;
 	position: relative;
@@ -71,31 +85,31 @@ body{
 	margin-right: 417px;
 	margin-left: 111px;
 }
-.col1{
+.col1	{
 
 	font-size: 12px;
 	line-height: 18px;
 	width: 250px;
 	padding: 20px 40px 20px 0px;
 	float: left;
-	margin-left: 271px;
+	margin-left: 342px;
 	clear: both;
 }
-.col2{
+.col2	{
 	font-size: 12px;
 	line-height: 18px;
 	width: 250px;
 	padding : 20px 40px 20px 0px;
 	float:left;
 }
-.col3{
+.col3	{
 	font-size: 12px;
 	line-height: 18px;
 	width: 250px;
 	padding: 20px 0px 20px 0;
 	float:left;
 }
-.Proof{
+.Proof	{
 	 position: relative;
 	 top: 302px;
 	 right:-249px;
