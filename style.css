@@ -8,7 +8,6 @@
 	/*font-family:neuropol.ttf;*/
 	/*src:url("styles/fonts/neuropol.ttf");*/
 body{
-
 }
 h1	{
 	font-family: BuDtendEr;
@@ -116,4 +115,23 @@ h4	{
 	 width: 655px;
 	 margin-right:50px;
 	 /*margin-left: */
+}
+.nav {
+	text-align: right;
+}
+.nav li a {
+	text-decoration: none;
+	color: white;
+	margin: 10px;
+}
+.nav li {
+	list-style: none;
+	display: inline;
+	color: white;
+}
+.navbar {
+	width: 100%;
+	position: fixed;
+	background-color: black;
+	z-index: 1;		
 }
