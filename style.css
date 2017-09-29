@@ -8,6 +8,7 @@
 	/*font-family:neuropol.ttf;*/
 	/*src:url("styles/fonts/neuropol.ttf");*/
 body{
+	margin :0px;
 }
 h1	{
 	font-family: BuDtendEr;
@@ -134,4 +135,5 @@ h4	{
 	position: fixed;
 	background-color: black;
 	z-index: 1;		
+	/*top :0px;*/
 }
