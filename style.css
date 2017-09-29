@@ -135,5 +135,12 @@ h4	{
 	position: fixed;
 	background-color: black;
 	z-index: 1;		
-	/*top :0px;*/
+	top :0px;
+}
+.gallery{
+	 position: relative;
+	 margin-top: 200px;
+	 right: -250px;
+	 width: 655px;
+	 margin-right:50px;
 }
