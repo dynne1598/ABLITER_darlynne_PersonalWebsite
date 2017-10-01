@@ -151,11 +151,19 @@ h4	{
     border: 0px solid #ddd;
     padding: 5px;
     width: 309px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
 }
 .img-circle	{
 	border-radius: 50px;
 }
+.img1:hover {
 
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+
+  }
+  
 .img2	{
 	margin-left:584px;
 	margin-top: -342px;
