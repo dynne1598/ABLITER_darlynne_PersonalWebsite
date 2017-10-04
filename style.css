@@ -11,6 +11,7 @@ body{
 	margin :0px;
 }
 h1	{
+	
 	font-family: BuDtendEr;
 	font-size: 150px;
 	margin-top :61px;
@@ -18,6 +19,7 @@ h1	{
 	letter-spacing: 5px;
 }
 h2	{
+	
 	font-family: BuDtendEr;
 	font-size: 160px;
 	color: orange;
@@ -30,6 +32,7 @@ h2	{
 	
 }
 h3	{
+	
 	font-family: BuDtendEr;
 	font-size: 220px;
 	letter-spacing: 20px;
@@ -38,6 +41,7 @@ h3	{
 
 }
 h4	{
+	
 	font-size: 33px;
 	margin-right: 50px;
 	margin-left: 143px;
@@ -55,19 +59,20 @@ h4	{
 	margin-left: 295px;
 }
 .WOULD	{
-	padding-top: 76px;
+
 	position: relative;
+	padding-top: 76px;
 	top :-57px;
-	right: -207px;
+	right: -265px;
 	z-index: :100;
 	margin-top: -166px;
-	margin-right: 365px;
+	margin-right: 538px;
 	margin-left: 111px;
 }
 .Myface	{
 
 	position: relative;
-	top : -328px;
+	top : -196px;
 	right : -743px;
 	margin-top: -257px;
 	margin-right: 198px;
@@ -79,10 +84,10 @@ h4	{
 	position: relative;
 	width: -50px;
 	top :228px;
-	right: -244px;
+	right: -264px;
 	z-index: :100;
 	margin-top: -376px;
-	margin-right: 417px;
+	margin-right: 517px;
 	margin-left: 111px;
 }
 .col1	{
@@ -287,5 +292,38 @@ h4	{
 	margin-top: -137px;
 	width : 780px;
 }
+
+.contacts {
+
+	position : relative;
+	margin-left: 416px;
+	margin-top: 50px;
+	width : 50px;
+
+}
+
+#footer {
+   margin-top: 50px;
+   bottom:0;
+   width:100%;
+   height:300px;   /* Height of the footer */
+   background:#353536;
+   color: WHITE;
+   line-height: 10px;
+}
+.info p:first-child{
+	font-size: 20px;
+
+}
+
+.info {
+
+	top: 105px;
+	position: relative;
+	margin-left: 621px;
+	width: 653px;
+}
+
+
 
 
